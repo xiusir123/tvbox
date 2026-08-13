@@ -128,9 +128,9 @@
     },
     {
       "key": "jinman",
-      "name": "禁漫漫画",
+      "name": "禁漫画",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/禁漫漫画.py",
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/禁漫画.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -155,9 +155,9 @@
     },
     {
       "key": "seci",
-      "name": "色词漫画",
+      "name": "色曲",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色词漫画.py",
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色曲.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
