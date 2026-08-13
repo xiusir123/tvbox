@@ -1,0 +1,211 @@
+{
+  "sites": [
+    {
+      "key": "3dse",
+      "name": "3D涩动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/3d涩动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "91dm",
+      "name": "91动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/91动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "acg",
+      "name": "ACG漫画网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/Acg漫画网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "asmr",
+      "name": "Asmr",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/Asmr.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huoporn",
+      "name": "Huoporn",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/Huoporn.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "javmenu",
+      "name": "Javmenu",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/Javmenu.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "pttco",
+      "name": "Ptt.co",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/Ptt.co.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aman",
+      "name": "aman漫画",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/aman漫画.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "avtoday",
+      "name": "avtoday",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/avtoday.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ho5ho",
+      "name": "ho5ho漫画源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/ho5ho漫画源.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vhub",
+      "name": "vhub",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/vhub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "youzhifennengpao",
+      "name": "优质粉嫩炮",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/优质粉嫩炮.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wuliaoharimei",
+      "name": "无聊harimei",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/无聊harimei.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wumanmanhua",
+      "name": "污漫漫画",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/污漫漫画.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sehan",
+      "name": "涩韩漫画",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/涩韩漫画.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seciliangqu",
+      "name": "涩词浪曲",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/涩词浪曲.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "pianyuan",
+      "name": "片源仓库",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/片源仓库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qitamaduo",
+      "name": "其他妈多分类",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/其他妈多分类.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jinman",
+      "name": "禁漫画",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/禁漫画.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shenshi",
+      "name": "绅士漫画",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/绅士漫画.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqasmr",
+      "name": "色情Asmr",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情Asmr.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ddasmr",
+      "name": "蛋蛋asmr",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/蛋蛋asmr.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sudugu",
+      "name": "速读谷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/速读谷.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
